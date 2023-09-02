@@ -25,8 +25,7 @@ Run the following command, replacing the placeholders with your specific informa
 
 bash
 Copy code
-ViralMSA.py -e YOUR_EMAIL -s INPUT_SEQUENCES.FAS -o OUTPUT_DIRECTORY -r HIV-1
-YOUR_EMAIL: Your contact email address.
+ViralMSA.py
 INPUT_SEQUENCES.FAS: The FASTA file containing your genome sequences.
 OUTPUT_DIRECTORY: The directory where the output files will be saved.
 HIV-1: The reference name for your sequences.
