@@ -2,7 +2,7 @@ tna93 results:
 Read 101 sequences of length 9181
 Will perform 5050 pairwise distance calculations
 Progress:     100% (    5050 links found,          inf evals/sec)
-{
+{ 
 	"Actual comparisons performed" :5050,
 	"Comparisons accounting for copy numbers " :5.05e+03,
 	"Total comparisons possible" : 5050,
